@@ -16,6 +16,8 @@ Docs in this folder (entry points)
 - docs/octoacme-retrospective-and-continuous-improvement.md
 - docs/octoacme-roles-and-personas.md
 
+- docs/copilot-spaces-guide.md
+
 How to use this README
 - Use this file as the landing page for program-level process docs.
 - Keep the Project One‑pager and release README updated in each project repo.
